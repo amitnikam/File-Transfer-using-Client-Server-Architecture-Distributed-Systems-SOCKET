@@ -3,7 +3,6 @@
 This program is a basic implementation of a widely used client-server based communication architecture between different Distributed Systems. Connections are established through [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm). Server can handle multiple clients simultaneously using multi-threading. Clients can download multiple files parallely using multiple threaded connections.
 
 ___
-<br>
 
 ## Implementation
 
@@ -51,7 +50,6 @@ pressing ‘ctrl’ + ’F’ keys.
 >> If any active clients are connected, the server will print the same in console. It is advised to close the clients before closing the server to avoid temporary PORT blocking.
 
 ___
-<br>
 
 ## Features
 
@@ -78,14 +76,13 @@ __Client Features (Version 1.0.0)__
 - Client closes connection and shutdowns if user quits the program.
 
 ___
-<br>
 
 ## About
 <br>
 
 __Version:__ 1.0.0
 
-__Reporitory:__ <https://github.com/amitnikam/File-Transfer-using-Client-Server-Architecture-Distributed-Systems-SOCKETS->
+__Reporitory:__ <https://github.com/amitnikam/File-Transfer-using-Client-Server-Architecture-Distributed-Systems-SOCKET>
 
 __Author:__ [Amit Nikam](https://github.com/amitnikam)
 
