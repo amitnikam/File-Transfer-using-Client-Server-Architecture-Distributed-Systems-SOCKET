@@ -3,10 +3,9 @@
 This program is a basic implementation of a widely used client-server based communication architecture between different Distributed Systems. Connections are established through [Sockets](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm). Server can handle multiple clients simultaneously using multi-threading. Clients can download multiple files parallely using multiple threaded connections.
 
 ___
+<br>
 
 ## Implementation
-
-<br>
 
 > Run the server.py python script before client.py (else the client would throw a connection error and close).
 
@@ -50,10 +49,9 @@ pressing ‘ctrl’ + ’F’ keys.
 >> If any active clients are connected, the server will print the same in console. It is advised to close the clients before closing the server to avoid temporary PORT blocking.
 
 ___
+<br>
 
 ## Features
-
-<br>
 
 __Server Features (Version 1.0.0)__
 - Server logs every major action in a log file.
@@ -76,9 +74,9 @@ __Client Features (Version 1.0.0)__
 - Client closes connection and shutdowns if user quits the program.
 
 ___
+<br>
 
 ## About
-<br>
 
 __Version:__ 1.0.0
 
